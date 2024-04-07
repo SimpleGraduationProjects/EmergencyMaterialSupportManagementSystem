@@ -71,7 +71,7 @@ spring:
       datasource:
         master:
           driver-class-name: com.mysql.cj.jdbc.Driver
-          url: jdbc:mysql://localhost:3306/graduation_xugongkai_bbk_mss?useSSL=true&autoReconnect=true&serverTimezone=Asia/Shanghai
+          url: jdbc:mysql://localhost:3306/graduation_180_xugongkai_bbk_mss?useSSL=true&autoReconnect=true&serverTimezone=Asia/Shanghai
           username: root
           password: 123456
     # 使用阿里的Druid连接池
